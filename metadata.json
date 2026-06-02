@@ -1,0 +1,6 @@
+{
+  "name": "T-Shirt Trend Studio",
+  "description": "An interactive studio showcasing 5 unique trending t-shirt design styles with customizable previews and Gemini AI-powered creative slogans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
